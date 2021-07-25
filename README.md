@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## I'm Chiran
+
+![](https://komarev.com/ghpvc/?username=cmadusankahw)
+
+- 📫 Reach me: cmadusankahw@gmail.com
+
+
 <!--
 **cmadusankahw/cmadusankahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
